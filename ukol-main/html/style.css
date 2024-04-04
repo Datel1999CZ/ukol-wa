@@ -43,12 +43,17 @@ body{
     display: inline-block;
     border: 1px solid black;
     margin: 5px;
-    width: 200px;
+    width: 300px;
+    align-items: start;
+    position: relative;
+    top: 150px;
+    left: 0;
 }
 
 .galerie .popis{
     padding: 10px;
     text-align: center;
+    color: #fff;
 }
 
 .galerie img{
